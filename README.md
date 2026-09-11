@@ -1,5 +1,7 @@
 # Candleguard Design Bible
 
+![Candleguard cinematic key art](04_Concept_Art/Champions/2026-09-12_Candleguard_README_Hero_v01.png)
+
 Candleguard is a competitive hero action game set in the endless underground kingdoms of the kobolds.
 
 Players control named kobold champions in a single-lane PvP push built for 1v1, 2v2, and 3v3 matches. The world is full of mining crews, tunnel beasts, scavenger contraptions, ritual candles, dangerous Shinies, and things in the Deep that kobolds only half-understand.
