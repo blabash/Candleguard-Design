@@ -1,6 +1,6 @@
 # Candleguard Design Bible
 
-![Candleguard cinematic key art](04_Concept_Art/Champions/2026-09-12_Candleguard_README_Hero_v07.png)
+![Candleguard cinematic key art](04_Concept_Art/Champions/2026-09-12_Candleguard_README_Hero_v08.png)
 
 Candleguard is a competitive hero action game set in the endless underground kingdoms of the kobolds.
 
